@@ -12,7 +12,6 @@ import java.util.List;
 public class CheckMainMenuTest extends BaseScript{
 
     public static void main(String[] args) throws InterruptedException {
-       // TODO Script to check Main Menu items
 
         WebDriver driver = getDriver();
         driver.get(getAdminUrl());
